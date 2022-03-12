@@ -3,6 +3,8 @@
 ## I'm working on ... 
 Learning Git, Javascript, and WordPress development.
 
+[Check out my LinkedIn](https://www.linkedin.com/in/jessica-tran-tobiesen/)
+
 
 
 <!--
